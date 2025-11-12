@@ -1,4 +1,5 @@
 # Cairo Real Estate Price Predictor
+Try it: https://cairo-price-predictor.streamlit.app/
 
 A Streamlit web app that predicts apartment prices in Cairo based on area, finishing type, district, and compound.
 
